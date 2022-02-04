@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "412885960737",
+    "project_id": "medical-centre-6b343",
+    "storage_bucket": "medical-centre-6b343.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412885960737:android:81df325e1517f6a26afb60",
+        "android_client_info": {
+          "package_name": "com.example.medicalcentre"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "412885960737-2r1lvibb2vq2tv5b2pjqv3ken8i2rtnt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvqu4sqFmKnkfCPb9ffHyo0udInN9OGIw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "412885960737-2r1lvibb2vq2tv5b2pjqv3ken8i2rtnt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
